@@ -22,7 +22,7 @@ export default function Wedding() {
       <section className="bg-black text-white py-6 px-4 md:px-12 lg:px-20">
         <motion.h2 initial={{ y: 0, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ duration: 1, delay: 0.3 }} className="text-4xl md:text-5xl font-semibold text-center mb-20 underline">
+          transition={{ duration: 1, delay: 0.3 }} className="text-4xl md:text-5xl font-semibold text-center md:mb-20 underline">
           Wedding
         </motion.h2>
 
@@ -57,6 +57,7 @@ export default function Wedding() {
                           src={images[index]}
                           alt={`Wedding ${index + 1}`}
                           className={`${widthClass} aspect-[4/3] rounded-xl shadow-lg object-cover`}
+                          loading="lazy"
                         />
                       </div>
                     )
