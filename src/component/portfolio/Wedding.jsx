@@ -51,7 +51,7 @@ export default function Wedding() {
                     return (
                       <div
                         key={index}
-                        className="flex justify-center w-full transition-all duration-500 grayscale hover:grayscale-0 hover:scale-105"
+                        className="flex justify-center w-full transition-all duration-500 md:grayscale md:hover:grayscale-0 hover:scale-105"
                       >
                         <img
                           src={images[index]}
