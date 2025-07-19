@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 
 export default function Section() {
   return (
-    <section className="bg-black min-h-screen flex items-center justify-center overflow-hidden px-4">
-      <div className="w-full max-w-8xl mx-auto grid md:grid-cols-2 relative gap-6">
+    <section className="bg-black min-h-screen flex items-center justify-center  overflow-hidden px-4">
+      <div className="w-full max-w-8xl mx-auto grid md:grid-cols-2 pt-0 relative gap-6">
 
         {/* Left - Text Box with Animation */}
         <motion.div

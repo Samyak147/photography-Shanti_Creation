@@ -7,12 +7,12 @@ export default function Wedding() {
   const images = [
     '/img/image5.JPG',
     '/img/image6.JPG',
-    '/img/image8.JPG',
+    '/img/image2.JPG',
     '/img/image9.JPG',
+    '/img/image3.JPG',
     '/img/image7.JPG',
-    '/img/image13.JPG',
-    '/img/image10.JPG',
     '/img/image11.JPG',
+    '/img/image1.JPG',
   ]
 
   return (
