@@ -22,7 +22,7 @@ export default function Section() {
           </h1>
           <a
             href="#"
-            className="text-sm underline font-semibold text-black hover:text-gray-500 transition"
+            className="text-sm underline font-semibold text-black hover:text-gray-600 transition"
           >
             Book Now
           </a>
