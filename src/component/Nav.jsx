@@ -74,7 +74,7 @@ export default function Nav() {
             <div>
               <span className="block text-gray-300 font-medium">Portfolio</span>
               <div className="pl-4 mt-1 space-y-1 text-sm">
-                <Link to="/wedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Wedding</Link>
+                <Link to="/portfolio/wedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Wedding</Link>
                 <Link to="/fashion" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Pre Wedding</Link>
                 <Link to="/product" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Product</Link>
               </div>
