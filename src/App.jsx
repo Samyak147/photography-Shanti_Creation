@@ -6,6 +6,7 @@ import Section from './component/Section';
 import About from './component/About';
 import Index from './Index';
 import Wedding from './component/portfolio/Wedding';
+import Pre_Wedding from './component/portfolio/Pre_Wedding';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<About />} />
           <Route path="/portfolio/wedding" element={<Wedding/>} />
+          <Route path="/portfolio/prewedding" element={<Pre_Wedding/>} />
           {/* <Route path="/services" element={<Services />} /> */}
           {/* <Route path="/contact" element={<Contact />} /> */}
         </Routes>

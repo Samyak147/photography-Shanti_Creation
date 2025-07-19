@@ -18,7 +18,7 @@ export default function Nav() {
             <span className="hover:text-gray-400 cursor-pointer">Portfolio</span>
             <ul className="absolute top-8 -right-15 text-gray-300 rounded-md shadow-md opacity-0 group-hover:opacity-100 group-hover:translate-y-1 transform transition-all duration-300 min-w-[140px]">
               <li><Link to="/portfolio/wedding" className="block px-4 py-2 hover:bg-gray-800">Wedding</Link></li>
-              <li><Link to="/fashion" className="block px-4 py-2 hover:bg-gray-800">Pre Wedding</Link></li>
+              <li><Link to="/portfolio/prewedding" className="block px-4 py-2 hover:bg-gray-800">Pre Wedding</Link></li>
               <li><Link to="/product" className="block px-4 py-2 hover:bg-gray-800">Product</Link></li>
             </ul>
           </li>
@@ -75,7 +75,7 @@ export default function Nav() {
               <span className="block text-gray-300 font-medium">Portfolio</span>
               <div className="pl-4 mt-1 space-y-1 text-sm">
                 <Link to="/portfolio/wedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Wedding</Link>
-                <Link to="/fashion" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Pre Wedding</Link>
+                <Link to="/portfolio/prewedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Pre Wedding</Link>
                 <Link to="/product" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Product</Link>
               </div>
             </div>
