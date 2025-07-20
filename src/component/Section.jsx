@@ -32,14 +32,14 @@ export default function Section() {
         <motion.div
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1.2, delay: 0.3 }}
+          transition={{ duration: 1, delay: 0.3 }}
           className="w-full h-auto md:h-[550px] md:w-[850px] z-0 
           relative md:absolute md:top-1/2 md:right-10 md:transform md:-translate-y-1/2"
         >
           <img
-            src="image2.jpg"
+            src="First_img1.png"
             alt="Studio Model"
-            className="w-full h-full object-cover rounded-md"
+            className="w-full h-full object-cover grayscale rounded-md"
           />
         </motion.div>
 

@@ -5,14 +5,19 @@ import Nav from '../Nav'
 
 export default function Wedding() {
   const images = [
-    '/img/image5.JPG',
-    '/img/image6.JPG',
-    '/img/image2.JPG',
-    '/img/image9.JPG',
-    '/img/image3.JPG',
-    '/img/image7.JPG',
-    '/img/image11.JPG',
-    '/img/image1.JPG',
+    '/img/w_image1.png',
+    '/img/w_image2.png',
+    '/img/w_image3.png',
+    '/img/w_image4.png',
+    '/img/w_image5.png',
+    '/img/w_image6.png',
+    '/img/w_image7.png',
+    '/img/w_image8.png',
+    '/img/w_image9.png',
+    '/img/w_image10.png',
+    '/img/w_image11.png',
+    '/img/w_image12.png',
+
   ]
 
   return (

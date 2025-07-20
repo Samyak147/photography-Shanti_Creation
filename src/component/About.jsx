@@ -60,8 +60,9 @@ export default function About() {
                     >
                         <div className="h-full">
                             <img
-                                src="front_img.jpg"
+                                src="About_img.png"
                                 alt="Photographer"
+                                loading='lazy'
                                 className="shadow-lg w-full h-full object-cover"
                             />
                         </div>
