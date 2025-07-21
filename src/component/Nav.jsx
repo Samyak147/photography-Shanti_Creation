@@ -79,7 +79,7 @@ export default function Nav() {
               <div className="pl-4 mt-1 space-y-1 text-sm">
                 <Link to="/portfolio/wedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Wedding</Link>
                 <Link to="/portfolio/prewedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Pre Wedding</Link>
-                <Link to="/product" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Product</Link>
+                <Link to="/portfolio/product" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Product</Link>
               </div>
             </div>
             <Link to="/about" onClick={() => setOpen(false)} className="block text-gray-300 hover:text-gray-500">About</Link>

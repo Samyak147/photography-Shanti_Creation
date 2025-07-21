@@ -27,7 +27,7 @@ export default function Contact() {
     e.preventDefault();
 
     const { firstName, lastName, email, eventdate, message } = formData;
-    const phone = '919999999999'; // Replace with your actual WhatsApp number
+    const phone = '917489134309';
 
     // If the message is empty, use the default
     const finalMessage = message.trim() === '' ? DEFAULT_MESSAGE : message;

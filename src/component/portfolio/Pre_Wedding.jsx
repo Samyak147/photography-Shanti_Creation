@@ -5,18 +5,18 @@ import Nav from '../Nav'
 
 export default function Pre_Wedding() {
   const images = [
-    '/img/p_image0.png',
-    '/img/p_image10.png',
-    '/img/p_image2.png',
-    '/img/p_image3.png',
-    '/img/p_image1.png',
-    '/img/p_image6.png',
-    '/img/p_image4.png',
-    '/img/p_image7.png',
-    '/img/p_image8.png',
-    '/img/p_image5.png',
-    '/img/p_image9.png',
-    '/img/p_image11.png',
+    '/img/p_image0.webp',
+    '/img/p_image10.webp',
+    '/img/p_image2.webp',
+    '/img/p_image3.webp',
+    '/img/p_image1.webp',
+    '/img/p_image6.webp',
+    '/img/p_image4.webp',
+    '/img/p_image7.webp',
+    '/img/p_image8.webp',
+    '/img/p_image5.webp',
+    '/img/p_image9.webp',
+    '/img/p_image11.webp',
   ]
 
   return (
