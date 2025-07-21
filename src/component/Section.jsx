@@ -22,7 +22,7 @@
 //           <h1 className="text-2xl sm:text-3xl md:text-4xl font-light tracking-widest mb-4 leading-snug">
 //             SHANTI PHOTOGRAPHY <br /> & CREATION
 //           </h1>
-            
+
 //           <Link to="/services" className="text-sm underline font-semibold italic text-gray-600 hover:text-black transition">Book Now</Link>
 //         </motion.div>
 
@@ -52,7 +52,7 @@ import { Link } from 'react-router-dom';
 
 export default function Section() {
   return (
-    <section className="bg-black py-10 md:min-h-screen flex items-center px-4">
+    <section className="bg-black py-20 md:py-10 md:min-h-screen flex items-center px-4">
       <div className="w-full max-w-8xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6 relative items-center">
 
         {/* Left - Text Box */}
@@ -60,10 +60,8 @@ export default function Section() {
           initial={{ opacity: 0, x: -80 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
-          // className="bg-white w-full md:w-[450px] h-auto  mx-auto z-10 
-          // flex flex-col justify-center items-center text-center px-6 py-6 rounded-md shadow-md"
           className='bg-white w-full md:w-[450px] h-auto md:h-[500px] mx-auto z-10 
-//           flex flex-col justify-center items-center text-center px-6 py-6 rounded-md shadow-md'
+           flex flex-col justify-center items-center text-center px-6 py-6 rounded-md shadow-md'
         >
           <h2 className="text-sm text-gray-600 tracking-wide italic mb-2">
             Photography <br /> Studio
@@ -80,7 +78,6 @@ export default function Section() {
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1, delay: 0.3 }}
-          // className="w-full h-[300px] md:h-[550px] md:w-[850px] relative md:absolute md:top-1/2 md:right-10 md:-translate-y-1/2"
           className="w-full h-auto md:h-[550px] md:w-[850px] md:absolute md:top-1/2 md:right-10 md:-translate-y-1/2"
 
         >
