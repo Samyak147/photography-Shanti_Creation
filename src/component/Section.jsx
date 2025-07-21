@@ -50,6 +50,8 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
+
 
 export default function Section() {
   return (
@@ -70,12 +72,8 @@ export default function Section() {
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-light tracking-widest mb-4 leading-snug">
             SHANTI PHOTOGRAPHY <br /> & CREATION
           </h1>
-          <a
-            href="#"
-            className="text-sm underline font-semibold text-black hover:text-gray-600 transition"
-          >
-            Book Now
-          </a>
+            
+          <Link to="/services" className="text-sm underline font-semibold italic text-gray-600 hover:text-black transition">Book Now</Link>
         </motion.div>
 
         {/* Right - Image Box */}
@@ -86,7 +84,7 @@ export default function Section() {
           className="w-full h-auto md:h-[550px] md:w-[850px] md:absolute md:top-1/2 md:right-10 md:-translate-y-1/2"
         >
           <img
-            src="First_img1.png"
+            src="First_img1.webp"
             alt="Studio Model"
             className="w-full h-full object-cover grayscale rounded-md"
           />

@@ -65,8 +65,8 @@ Event Date: ${eventdate}%0A`;
           </div>
 
           <div className="flex space-x-5 pt-2 text-xl">
-            <a href="#" className="hover:text-gray-400"><FaWhatsapp /></a>
-            <a href="#" className="hover:text-gray-400"><FaInstagram /></a>
+            <a href="https://wa.me/917489134309" className="hover:text-gray-400"><FaWhatsapp /></a>
+            <a href="https://www.instagram.com/shantiphotography084?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="hover:text-gray-400"><FaInstagram /></a>
             {/* <a href="#" className="hover:text-gray-400"><FaTwitter /></a> */}
           </div>
         </div>
