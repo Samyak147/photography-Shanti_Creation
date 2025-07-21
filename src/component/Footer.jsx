@@ -31,7 +31,7 @@ export default function Footer() {
                     >
                         <FaWhatsapp />
                     </a>
-                    <a
+                    {/* <a
                         href="https://facebook.com"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -39,7 +39,7 @@ export default function Footer() {
                         aria-label="Facebook"
                     >
                         <FaFacebookF />
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </footer>

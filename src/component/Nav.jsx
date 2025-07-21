@@ -8,6 +8,9 @@ export default function Nav() {
   return (
     <>
       <nav className="bg-black shadow-md px-6 py-4 flex justify-between items-center relative z-1">
+      
+       {/* <nav className="bg-black shadow-md px-6 py-4 flex justify-between items-center 
+                fixed top-0 left-0 w-full z-50"> */}
         {/* Logo */}
        <Link to="/" className="flex items-center"><div className="text-xl font-bold italic text-gray-300">Shanti Photography</div></Link>
 
@@ -19,7 +22,7 @@ export default function Nav() {
             <ul className="absolute top-8 -right-15 text-gray-300 rounded-md shadow-md opacity-0 group-hover:opacity-100 group-hover:translate-y-1 transform transition-all duration-300 min-w-[140px]">
               <li><Link to="/portfolio/wedding" className="block px-4 py-2 hover:bg-gray-800">Wedding</Link></li>
               <li><Link to="/portfolio/prewedding" className="block px-4 py-2 hover:bg-gray-800">Pre Wedding</Link></li>
-              <li><Link to="/product" className="block px-4 py-2 hover:bg-gray-800">Product</Link></li>
+              <li><Link to="/portfolio/product" className="block px-4 py-2 hover:bg-gray-800">Product</Link></li>
             </ul>
           </li>
           <li><Link to="/about" className="hover:text-gray-400">About</Link></li>
