@@ -23,7 +23,7 @@ export default function PortfolioCards() {
   return (
     <section className="bg-black py-12 px-4 md:px-12 lg:px-20 text-white">
       <h2 className="text-4xl md:text-4xl font-semibold text-center mb-10 underline">
-        Portfolio
+        Gallery
       </h2>
 
       <div className="grid gap-8 md:grid-cols-3 max-w-6xl mx-auto">

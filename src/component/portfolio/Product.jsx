@@ -5,10 +5,13 @@ import Footer from '../Footer';
 
 export default function Product() {
   const images = [
-    '/img/p_image0.wbp',
-    '/img/p_image0.wbp',
-    '/img/p_image0.wbp',
-    '/img/p_image0.wbp',
+    '/img/pro_image3.webp',
+    '/img/pro_image2.webp',
+    '/img/pro_image4.webp',
+    '/img/pro_image5.webp',
+    '/img/pro_image6.webp',
+    '/img/pro_image.webp',
+    
     
     
   ]

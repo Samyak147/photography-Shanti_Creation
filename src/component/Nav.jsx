@@ -18,7 +18,7 @@ export default function Nav() {
         <ul className="hidden md:flex space-x-6 text-gray-300 font-medium items-center">
           {/* Portfolio Dropdown */}
           <li className="relative group">
-            <span className="hover:text-gray-400 cursor-pointer">Portfolio</span>
+            <span className="hover:text-gray-400 cursor-pointer">Gallery</span>
             <ul className="absolute top-8 -right-15 text-gray-300 rounded-md shadow-md opacity-0 group-hover:opacity-100 group-hover:translate-y-1 transform transition-all duration-300 min-w-[140px]">
               <li><Link to="/portfolio/wedding" className="block px-4 py-2 hover:bg-gray-800">Wedding</Link></li>
               <li><Link to="/portfolio/prewedding" className="block px-4 py-2 hover:bg-gray-800">Pre Wedding</Link></li>
@@ -75,7 +75,7 @@ export default function Nav() {
           >
             {/* Portfolio submenu for mobile */}
             <div>
-              <span className="block text-gray-300 font-medium">Portfolio</span>
+              <span className="block text-gray-300 font-medium">Gallery</span>
               <div className="pl-4 mt-1 space-y-1 text-sm">
                 <Link to="/portfolio/wedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Wedding</Link>
                 <Link to="/portfolio/prewedding" onClick={() => setOpen(false)} className="block text-gray-400 hover:text-white">Pre Wedding</Link>
