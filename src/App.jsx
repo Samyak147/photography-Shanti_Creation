@@ -19,7 +19,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowTip(false);
-    }, 10000); // 10 seconds
+    }, 5000); // 10 seconds
 
     return () => clearTimeout(timer);
   }, []);

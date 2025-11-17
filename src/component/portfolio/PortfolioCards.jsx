@@ -5,17 +5,17 @@ export default function PortfolioCards() {
   const cards = [
     {
       title: 'Wedding',
-      image: '/img/w_image1.webp', // replace with your actual image
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392637/w_image1_egqdnu.jpg', // replace with your actual image
       link: '/portfolio/wedding',
     },
     {
       title: 'Pre-Wedding',
-      image: '/img/p_image0.webp',
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393694/p_image0_yl64kt.jpg',
       link: '/portfolio/prewedding',
     },
     {
       title: 'Product',
-      image: '/img/p_image12.webp',
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393750/p_image12_hk0ebz.jpg',
       link: '/portfolio/product',
     },
   ]

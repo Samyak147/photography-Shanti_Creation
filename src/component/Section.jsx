@@ -34,7 +34,7 @@ export default function Section() {
 
         >
           <img
-            src="First_img1.webp"
+            src="https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392319/First_img_hzyafu.jpg"
             alt="Studio Model"
             className="w-full h-full object-cover grayscale rounded-md"
           />

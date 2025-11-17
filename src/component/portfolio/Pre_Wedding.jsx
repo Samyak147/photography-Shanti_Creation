@@ -5,18 +5,18 @@ import Nav from '../Nav'
 
 export default function Pre_Wedding() {
   const images = [
-    '/img/p_image0.webp',
-    '/img/p_image10.webp',
-    '/img/p_image2.webp',
-    '/img/p_image3.webp',
-    '/img/p_image1.webp',
-    '/img/p_image6.webp',
-    '/img/p_image4.webp',
-    '/img/p_image7.webp',
-    '/img/p_image8.webp',
-    '/img/p_image5.webp',
-    '/img/p_image9.webp',
-    '/img/p_image11.webp',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393694/p_image0_yl64kt.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394796/p_image10_or9rfm.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393772/p_image2_annc7g.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394802/p_image3_crylhg.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393729/p_image1_zrbz7t.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393789/p_image6_aqiec6.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394800/p_image4_dzmlsz.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394793/p_image7_wlqm9n.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393798/p_image8_vwusya.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394795/p_image5_gyzvz6.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393761/p_image9_xikd0n.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393744/p_image11_j2ywdx.jpg',
   ]
 
   return (

@@ -5,12 +5,12 @@ import Footer from '../Footer';
 
 export default function Product() {
   const images = [
-    '/img/pro_image3.webp',
-    '/img/pro_image2.webp',
-    '/img/pro_image4.webp',
-    '/img/pro_image5.webp',
-    '/img/pro_image6.webp',
-    '/img/pro_image.webp',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393306/pro_image3_pqaifq.png',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393298/pro_image2_ywjvt7.png',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393569/pro_image4_uld5nt.png',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393583/pro_image5_nnu0ur.png',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393302/pro_image6_ctdyjy.png',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393278/pro_image_h0sr7a.png',
     
     
     

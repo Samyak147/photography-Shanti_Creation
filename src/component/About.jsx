@@ -60,7 +60,7 @@ export default function About() {
                     >
                         <div className="h-full">
                             <img
-                                src="About_img.png"
+                                src="https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392318/About_img_e2nvpt.jpg"
                                 alt="Photographer"
                                 loading='lazy'
                                 className="shadow-lg w-full h-full object-cover"
