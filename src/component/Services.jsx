@@ -8,19 +8,19 @@ export default function Services() {
   const services = [
     {
       title: 'Wedding Photography',
-      image: '/img/w_image1.webp', 
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392637/w_image1_egqdnu.jpg', 
       description:
         'Capturing timeless moments of your big day with elegance, creativity, and emotion.',
     },
     {
       title: 'Pre-Wedding Photography',
-      image: '/img/p_image0.webp',
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393694/p_image0_yl64kt.jpg',
       description:
         'Create magical memories before the wedding day with artistic and themed pre-wedding shoots.',
     },
     {
       title: 'Product Shoot',
-      image: '/img/p_image12.webp',
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393750/p_image12_hk0ebz.jpg',
       description:
         'High-quality, detail-oriented product photography to elevate your brand presence.',
     },

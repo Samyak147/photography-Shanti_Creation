@@ -17,7 +17,7 @@ export default function Wedding() {
 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392642/w_image9_s5qe0n.jpg',
 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392649/w_image10_qwimcl.jpg',
 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392655/w_image11_npu3cc.jpg',
-'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392649/w_image12_ry7npr.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392649/w_image12_ry7npr.jpg',
 
 
   ]
