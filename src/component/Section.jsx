@@ -34,7 +34,7 @@ export default function Section() {
 
         >
           <img
-            src="https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392319/First_img_hzyafu.jpg"
+            src="https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392319/First_img_hzyafu.jpg"
             alt="Studio Model"
             className="w-full h-full object-cover grayscale rounded-md"
           />

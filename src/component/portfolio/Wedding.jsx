@@ -6,18 +6,19 @@ import Nav from '../Nav'
 export default function Wedding() {
   const images = [
     // '/img/w_image1.webp',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392637/w_image1_egqdnu.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392692/w_image2_hp5sj8.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392641/w_image3_fzxchw.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392654/w_image4_bjne1h.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392634/w_image5_mdaeod.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392634/w_image6_go24hx.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392656/w_image7_s9bimb.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392642/w_image8_mwn6m8.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392642/w_image9_s5qe0n.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392649/w_image10_qwimcl.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392655/w_image11_npu3cc.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763392649/w_image12_ry7npr.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392637/w_image1_egqdnu.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392692/w_image2_hp5sj8.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392641/w_image3_fzxchw.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392654/w_image4_bjne1h.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392634/w_image5_mdaeod.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392634/w_image6_go24hx.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392656/w_image7_s9bimb.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392642/w_image8_mwn6m8.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392642/w_image9_s5qe0n.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392649/w_image10_qwimcl.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392655/w_image11_npu3cc.jpg',
+'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763392649/w_image12_ry7npr.jpg',
+
 
   ]
 

@@ -5,18 +5,19 @@ import Nav from '../Nav'
 
 export default function Pre_Wedding() {
   const images = [
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393694/p_image0_yl64kt.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394796/p_image10_or9rfm.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393772/p_image2_annc7g.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394802/p_image3_crylhg.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393729/p_image1_zrbz7t.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393789/p_image6_aqiec6.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394800/p_image4_dzmlsz.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394793/p_image7_wlqm9n.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393798/p_image8_vwusya.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763394795/p_image5_gyzvz6.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393761/p_image9_xikd0n.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393744/p_image11_j2ywdx.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393694/p_image0_yl64kt.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394796/p_image10_or9rfm.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393772/p_image2_annc7g.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394802/p_image3_crylhg.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393729/p_image1_zrbz7t.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393789/p_image6_aqiec6.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394800/p_image4_dzmlsz.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394793/p_image7_wlqm9n.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393798/p_image8_vwusya.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394795/p_image5_gyzvz6.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393761/p_image9_xikd0n.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393744/p_image11_j2ywdx.jpg'
+
   ]
 
   return (
