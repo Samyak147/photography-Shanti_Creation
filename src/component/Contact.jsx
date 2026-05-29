@@ -59,9 +59,9 @@ Event Date: ${eventdate}`;
             </p>
 
             <div className="text-sm space-y-2 text-gray-300">
-              <p>vijay nagar ,Indore ,<br />(MP), 452011</p>
+              <p>Vijay Nagar ,Indore ,<br />(MP), 452011</p>
               <p>shantiphotography@gmail.com</p>
-              <p>Tel: 91 74891-34309</p>
+              <p>Tel: +91 79740-61288</p>
             </div>
 
             <div className="flex space-x-5 pt-2 text-xl">

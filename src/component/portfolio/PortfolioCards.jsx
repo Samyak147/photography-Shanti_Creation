@@ -15,7 +15,7 @@ export default function PortfolioCards() {
     },
     {
       title: 'Product',
-      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393750/p_image12_hk0ebz.jpg',
+      image: 'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763388431/samples/ecommerce/accessories-bag.jpg',
       link: '/portfolio/product',
     },
   ]

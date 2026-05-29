@@ -16,7 +16,16 @@ export default function Pre_Wedding() {
     'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393798/p_image8_vwusya.jpg',
     'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763394795/p_image5_gyzvz6.jpg',
     'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1763393744/p_image11_j2ywdx.jpg',
-    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393761/p_image9_xikd0n.jpg'
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/v1763393761/p_image9_xikd0n.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780064665/1000559011.jpg_s5lgir.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780063308/1000559065.jpg_a6lqfz.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780063307/1000559067.jpg_gzk8jo.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780064359/1000556379.jpg_gjsmh2.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780063304/DOC-20260529-WA0000_h8ts1z.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780063304/1000559049.jpg_ii22xe.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780063302/1000559064.jpg_domoe2.jpg',
+    'https://res.cloudinary.com/dqtxo7gkq/image/upload/w_1200,q_60,f_auto/v1780064232/1000559008.jpg_x2yloa.jpg'
+
 
   ]
 
